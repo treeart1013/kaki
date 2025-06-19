@@ -1,0 +1,5 @@
+node_modules
+/dist
+.env
+wiki-ai-app/node_modules
+wiki-ai-app/dist
